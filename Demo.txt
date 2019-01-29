@@ -1,2 +1,3 @@
 This is my first Demo
 My Second line in Demo.txt
+Trying add and commit together
